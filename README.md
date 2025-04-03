@@ -6,13 +6,5 @@ Repositório dedicado ao checkpoint 2 da matéria Domain Driven Design - JAVA, n
 
   - Classe veículo:
 
-    [custoVeiculo](#-int-dias):
+    - custoVeiculo(int-dias):
     Retorna o custo do veículo, baseado no preço da diária, nos dias usados e na aplicação de um possível desconto.
-
-
-
-
-    int-dias
-
-    
-  
