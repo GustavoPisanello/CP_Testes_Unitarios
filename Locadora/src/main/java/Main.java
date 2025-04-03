@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Insira os dias de atraso do veículo: ");
         int diasDeAtraso = sc.nextInt();
 
-        return (String.format("O valor à pagar é de: R$ %.2f", vel.calculaMultas(diasDeUso, diasDeAtraso)));
+        return (String.format("O valor à pagar é de: R$ %.2f", vel.calculaValorTotal(diasDeUso, diasDeAtraso)));
 
     }
 }
