@@ -12,5 +12,5 @@ Repositório dedicado ao checkpoint 2 da matéria Domain Driven Design - JAVA, n
     - aplicaDesconto(int dias, double desconto)  
         Verifica se, baseado nos dias usados, o montante é passível de aplicação de desconto. Se sim, retorna o próprio valor do desconto (double).
 
-    - calculaMultas(int diasDeUso, int diasDeAtraso)  
-        Com base nos dias de atraso e de uso, calcula o valor total, já com possíveis débitos e créditos que por ventura podem ocorrer.
+    - calculaValorTotal(int diasDeUso, int diasDeAtraso)  
+        Com base nos dias de atraso e de uso (int), calcula o valor total, já com possíveis débitos (multas) e créditos (descontos) que por ventura podem ocorrer.
