@@ -4,5 +4,5 @@ Repositório dedicado ao checkpoint 2 da matéria Domain Driven Design - JAVA, n
 
 ## Métodos da Aplicação
 
-  -Classe veículo:
+  - Classe veículo:
   
